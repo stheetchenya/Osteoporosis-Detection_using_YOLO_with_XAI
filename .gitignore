@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+Dataset/
+output_artifacts/
+output_test/
+venv/
+users
