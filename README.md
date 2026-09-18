@@ -12,6 +12,7 @@ This project detects osteoporosis using deep learning techniques.
 - Python
 - Machine Learning
 - Deep Learning
+
 **Overview of the work**
 Osteoporosis is a progressive skeletal disorder characterized by deterioration of bone microarchitecture, reduced bone strength, decreased bone mineral density, and increased susceptibility to fractures. Early and accurate identification of osteoporosis-related changes is essential for effective preventive care and personalized treatment planning. Conventional assessment methods often focus mainly on bone density measurements and may not fully capture complex structural variations in trabecular connectivity and cortical morphology.
 
